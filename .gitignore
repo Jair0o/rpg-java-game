@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+
+# Log files
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Build directories
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
